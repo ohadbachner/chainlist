@@ -1,7 +1,7 @@
 [
     {
         "type": "cw20",
-        "contract": "bbn1cnx34p82zngq0uuaendsne0x4s5gsm7gpwk2es8zk8rz8tnj938qqyq8f9",
+        "contract": "bbn1s7jzz7cyuqmy5xpr07yepka5ngktexsferu2cr4xeww897ftj77sv30f5s",
         "name" : "eBABY testnet",
         "symbol": "eBABY",
         "description": "ESCHER LST for Babylon",
